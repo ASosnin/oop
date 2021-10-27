@@ -1,5 +1,5 @@
 import { Character } from '../Character';
-import {Bowman} from "../Bowman";
+import { Bowman } from '../Bowman';
 
 test('Валидация имени персонажа меньше 2 символов', () => {
   function createCharacter() {
